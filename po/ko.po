@@ -35,7 +35,7 @@ msgstr "인도어"
 
 #: tables/bn/bengali-probhat.conf.in:3
 msgid "Probhat (phonetic)"
-msgstr "Probhat (표음)"
+msgstr "방글라데시어 (표음)"
 
 #: tables/gu/gujarati-phonetic.conf.in:3 tables/hi/hindi-phonetic.conf.in:3
 #: tables/pa/punjabi-phonetic.conf.in:3 tables/ta/tamil-phonetic.conf.in:3
@@ -44,23 +44,23 @@ msgstr "표음"
 
 #: tables/kn/kannada-kgp.conf.in:3
 msgid "KGP"
-msgstr "KGP"
+msgstr "칸나다어"
 
 #: tables/ml/malayalam-phonetic.conf.in:3
 msgid "Swanalekha"
-msgstr "Swanalekha"
+msgstr "인도 말라얄람어"
 
 #: tables/ne/nepali-rom.conf.in:3
 msgid "Romanized"
-msgstr "로마자화"
+msgstr "네팔어"
 
 #: tables/ne/nepali-trad.conf.in:3
 msgid "Traditional"
-msgstr "중국어 번체"
+msgstr "전통 네팔어"
 
 #: tables/other/cns11643.conf.in:3
 msgid "CNS11643"
-msgstr "CNS11643"
+msgstr "중국어 국가표준 11643"
 
 #: tables/other/compose.conf.in:3
 msgid "Compose"
@@ -72,7 +72,7 @@ msgstr "그림문자"
 
 #: tables/other/ipa-x-sampa.conf.in:3
 msgid "IPA-X-SAMPA"
-msgstr "IPA-X-SAMPA"
+msgstr "국제음성기호-확장된 SAM 음성기호"
 
 #: tables/other/latex.conf.in:3
 msgid "LaTex"
@@ -80,7 +80,7 @@ msgstr "LaTex"
 
 #: tables/pa/punjabi-jhelum.conf.in:3
 msgid "Jhelum"
-msgstr "Jhelum"
+msgstr "파키스탄어"
 
 #: tables/ru/rustrad.conf.in:3
 msgid "Russian Traditional"
@@ -88,15 +88,15 @@ msgstr "전통 러시아어"
 
 #: tables/ru/translit.conf.in:3
 msgid "Translit"
-msgstr "Translit"
+msgstr "러시아어 번역"
 
 #: tables/ru/yawerty.conf.in:3
 msgid "Yawerty"
-msgstr "Yawerty"
+msgstr "러시아 Yawerty 자판"
 
 #: tables/ta/tamil-remington.conf.in:3
 msgid "Remington"
-msgstr "Remington"
+msgstr "타밀어"
 
 #: tables/th/thai.conf.in:3
 msgid "Thai"
@@ -104,8 +104,8 @@ msgstr "태국어"
 
 #: tables/uk/translit-ua.conf.in:3
 msgid "Ua-Translit"
-msgstr "Ua-Translit"
+msgstr "우크라이나어 번역"
 
 #: tables/vi/viqr.conf.in:3
 msgid "Viqr"
-msgstr "Viqr"
+msgstr "베트남어"
